@@ -1,2 +1,2 @@
 # microbit-fireworks
-Fire
+Neopixel fireworks animation for BBC micro:bit
